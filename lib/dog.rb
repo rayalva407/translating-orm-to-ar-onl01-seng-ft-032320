@@ -1,3 +1,3 @@
-class Dog < Activ
+class Dog < ActiveRecord::Base
   
 end
